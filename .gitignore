@@ -1,0 +1,8 @@
+# Swap and temporary files
+*.swp
+*.swo
+*~
+
+# OS specific files
+.DS_Store
+Thumbs.db
